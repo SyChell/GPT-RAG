@@ -1,0 +1,20 @@
+{
+    "customizations": {
+        "codespaces": {
+            "repositories": {
+                "SyChell/GPT-RAG": {
+                    "permissions": "read-all"
+                },
+                "SyChell/gpt-rag-ingestion": {
+                    "permissions": "read-all"
+                },
+                "SyChell/gpt-rag-orchestrator": {
+                    "permissions": "read-all"
+                },
+                "SyChell/gpt-rag-frontend": {
+                    "permissions": "read-all"
+                }    
+            }
+        }
+    }
+}
